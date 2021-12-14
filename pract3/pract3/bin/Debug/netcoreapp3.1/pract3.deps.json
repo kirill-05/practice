@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pract3/1.0.0": {
+        "dependencies": {
+          "lib_6": "1.0.0",
+          "lib_mas": "1.0.0"
+        },
+        "runtime": {
+          "pract3.dll": {}
+        }
+      },
+      "lib_6/1.0.0": {
+        "runtime": {
+          "lib_6.dll": {}
+        }
+      },
+      "lib_mas/1.0.0": {
+        "runtime": {
+          "lib_mas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pract3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib_mas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

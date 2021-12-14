@@ -1,0 +1,20 @@
+C:\Users\кирилл\source\repos\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.deps.json
+C:\Users\кирилл\source\repos\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.dll
+C:\Users\кирилл\source\repos\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.pdb
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.AssemblyInfoInputs.cache
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.AssemblyInfo.cs
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.dll
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.pdb
+C:\Users\кирилл\source\repos\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.deps.json
+F:\мдк 01.01\работы\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.dll
+F:\мдк 01.01\работы\pract3\lib_6\bin\Debug\netcoreapp3.1\lib_6.pdb
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.AssemblyInfoInputs.cache
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.AssemblyInfo.cs
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.dll
+F:\мдк 01.01\работы\pract3\lib_6\obj\Debug\netcoreapp3.1\lib_6.pdb

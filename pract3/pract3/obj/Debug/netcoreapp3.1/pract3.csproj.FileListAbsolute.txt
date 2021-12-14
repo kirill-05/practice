@@ -1,0 +1,45 @@
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.exe
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.deps.json
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.runtimeconfig.json
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.runtimeconfig.dev.json
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.dll
+C:\Users\кирилл\source\repos\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.pdb
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.csproj.AssemblyReference.cache
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3_MarkupCompile.cache
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3_MarkupCompile.lref
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.g.resources
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.AssemblyInfoInputs.cache
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.AssemblyInfo.cs
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.dll
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.pdb
+C:\Users\кирилл\source\repos\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.genruntimeconfig.cache
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\App.g.cs
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3_MarkupCompile.cache
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3_MarkupCompile.lref
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.dll
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.pdb
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.exe
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.deps.json
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.runtimeconfig.json
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.runtimeconfig.dev.json
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.dll
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\pract3.pdb
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\lib_6.dll
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\lib_mas.dll
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\lib_6.pdb
+F:\мдк 01.01\работы\pract3\pract3\bin\Debug\netcoreapp3.1\lib_mas.pdb
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.g.resources
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.GeneratedMSBuildEditorConfig.editorconfig
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.AssemblyInfoInputs.cache
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.AssemblyInfo.cs
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.csproj.CopyComplete
+F:\мдк 01.01\работы\pract3\pract3\obj\Debug\netcoreapp3.1\pract3.genruntimeconfig.cache

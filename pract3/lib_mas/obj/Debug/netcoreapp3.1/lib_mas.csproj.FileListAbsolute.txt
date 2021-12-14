@@ -1,0 +1,20 @@
+C:\Users\кирилл\source\repos\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.deps.json
+C:\Users\кирилл\source\repos\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.dll
+C:\Users\кирилл\source\repos\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.pdb
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.csproj.AssemblyReference.cache
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.AssemblyInfoInputs.cache
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.AssemblyInfo.cs
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.dll
+C:\Users\кирилл\source\repos\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.pdb
+F:\мдк 01.01\работы\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.deps.json
+F:\мдк 01.01\работы\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.dll
+F:\мдк 01.01\работы\pract3\lib_mas\bin\Debug\netcoreapp3.1\lib_mas.pdb
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.GeneratedMSBuildEditorConfig.editorconfig
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.AssemblyInfoInputs.cache
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.AssemblyInfo.cs
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.dll
+F:\мдк 01.01\работы\pract3\lib_mas\obj\Debug\netcoreapp3.1\lib_mas.pdb
