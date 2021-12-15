@@ -1,0 +1,66 @@
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.exe
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.deps.json
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.json
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.dev.json
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.dll
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\ref\pract10.dll
+C:\Users\исп-34\source\repos\pract10\pract10\bin\Debug\net5.0-windows\pract10.pdb
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.cache
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.lref
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.g.resources
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfoInputs.cache
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfo.cs
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.dll
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\ref\pract10.dll
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.pdb
+C:\Users\исп-34\source\repos\pract10\pract10\obj\Debug\net5.0-windows\pract10.genruntimeconfig.cache
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.exe
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.deps.json
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.json
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.dev.json
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.dll
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\ref\pract10.dll
+E:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.pdb
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.AssemblyReference.cache
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\App.g.cs
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.cache
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.lref
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.baml
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.g.resources
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.GeneratedMSBuildEditorConfig.editorconfig
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfoInputs.cache
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfo.cs
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.CoreCompileInputs.cache
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.dll
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\ref\pract10.dll
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.pdb
+E:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.genruntimeconfig.cache
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.exe
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.deps.json
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.json
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.runtimeconfig.dev.json
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.dll
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\ref\pract10.dll
+F:\мдк 01.01\работы\pract10\pract10\bin\Debug\net5.0-windows\pract10.pdb
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\App.g.cs
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.cache
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10_MarkupCompile.lref
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\MainWindow.baml
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.g.resources
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.GeneratedMSBuildEditorConfig.editorconfig
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfoInputs.cache
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.AssemblyInfo.cs
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.dll
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\ref\pract10.dll
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.pdb
+F:\мдк 01.01\работы\pract10\pract10\obj\Debug\net5.0-windows\pract10.genruntimeconfig.cache
