@@ -1,0 +1,66 @@
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.exe
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.deps.json
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.json
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.dev.json
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.dll
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\ref\pract8.dll
+C:\Users\кирилл\source\repos\pract8\pract8\bin\Debug\net5.0-windows\pract8.pdb
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.AssemblyReference.cache
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.cache
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.lref
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.g.resources
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfoInputs.cache
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfo.cs
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.dll
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\ref\pract8.dll
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.pdb
+C:\Users\кирилл\source\repos\pract8\pract8\obj\Debug\net5.0-windows\pract8.genruntimeconfig.cache
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.exe
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.deps.json
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.json
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.dev.json
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.dll
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\ref\pract8.dll
+D:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.pdb
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.AssemblyReference.cache
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\App.g.cs
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.cache
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.lref
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.baml
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.g.resources
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfoInputs.cache
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfo.cs
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.CoreCompileInputs.cache
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.dll
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\ref\pract8.dll
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.pdb
+D:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.genruntimeconfig.cache
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.exe
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.deps.json
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.json
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.runtimeconfig.dev.json
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.dll
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\ref\pract8.dll
+F:\мдк 01.01\работы\pract8\pract8\bin\Debug\net5.0-windows\pract8.pdb
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\App.g.cs
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.cache
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8_MarkupCompile.lref
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\MainWindow.baml
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.g.resources
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfoInputs.cache
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.AssemblyInfo.cs
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.dll
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\ref\pract8.dll
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.pdb
+F:\мдк 01.01\работы\pract8\pract8\obj\Debug\net5.0-windows\pract8.genruntimeconfig.cache
