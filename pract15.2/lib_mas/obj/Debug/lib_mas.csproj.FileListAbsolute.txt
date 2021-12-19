@@ -1,0 +1,20 @@
+C:\Users\кирилл\source\repos\WpfApp7\lib_mas\obj\Debug\lib_mas.csprojAssemblyReference.cache
+C:\Users\кирилл\source\repos\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.CoreCompileInputs.cache
+E:\WpfApp7\lib_mas\bin\Debug\lib_mas.dll
+E:\WpfApp7\lib_mas\bin\Debug\lib_mas.pdb
+E:\WpfApp7\lib_mas\obj\Debug\lib_mas.csprojAssemblyReference.cache
+E:\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.CoreCompileInputs.cache
+E:\WpfApp7\lib_mas\obj\Debug\lib_mas.dll
+E:\WpfApp7\lib_mas\obj\Debug\lib_mas.pdb
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\bin\Debug\lib_mas.dll
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\bin\Debug\lib_mas.pdb
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.AssemblyReference.cache
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\obj\Debug\lib_mas.dll
+C:\Users\исп-34\Desktop\WpfApp7\lib_mas\obj\Debug\lib_mas.pdb
+D:\мдк 01.01\работы\WpfApp7\lib_mas\bin\Debug\lib_mas.dll
+D:\мдк 01.01\работы\WpfApp7\lib_mas\bin\Debug\lib_mas.pdb
+D:\мдк 01.01\работы\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.AssemblyReference.cache
+D:\мдк 01.01\работы\WpfApp7\lib_mas\obj\Debug\lib_mas.csproj.CoreCompileInputs.cache
+D:\мдк 01.01\работы\WpfApp7\lib_mas\obj\Debug\lib_mas.dll
+D:\мдк 01.01\работы\WpfApp7\lib_mas\obj\Debug\lib_mas.pdb

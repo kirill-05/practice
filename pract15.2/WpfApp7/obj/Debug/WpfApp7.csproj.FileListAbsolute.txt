@@ -1,0 +1,85 @@
+C:\Users\кирилл\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Users\кирилл\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\кирилл\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\кирилл\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\кирилл\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+E:\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+E:\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+E:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+E:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+E:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+E:\WpfApp7\WpfApp7\bin\Debug\lib_6.dll
+E:\WpfApp7\WpfApp7\bin\Debug\lib_mas.dll
+E:\WpfApp7\WpfApp7\bin\Debug\lib_6.pdb
+E:\WpfApp7\WpfApp7\bin\Debug\lib_mas.pdb
+E:\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+D:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+D:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+D:\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+D:\WpfApp7\WpfApp7\bin\Debug\lib_6.dll
+D:\WpfApp7\WpfApp7\bin\Debug\lib_mas.dll
+D:\WpfApp7\WpfApp7\bin\Debug\lib_6.pdb
+D:\WpfApp7\WpfApp7\bin\Debug\lib_mas.pdb
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+D:\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+D:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\lib_6.dll
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\lib_mas.dll
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\lib_6.pdb
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\bin\Debug\lib_mas.pdb
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\исп-34\Desktop\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+E:\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\lib_6.dll
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\lib_mas.dll
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\lib_6.pdb
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\bin\Debug\lib_mas.pdb
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+D:\мдк 01.01\работы\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
