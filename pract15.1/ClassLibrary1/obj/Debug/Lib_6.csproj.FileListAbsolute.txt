@@ -1,0 +1,18 @@
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\obj\Debug\Lib_6.csprojAssemblyReference.cache
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\obj\Debug\Lib_6.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\кирилл\source\repos\WpfApp6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\obj\Debug\Lib_6.csproj.AssemblyReference.cache
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\obj\Debug\Lib_6.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\исп-34\Desktop\WpfApp6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\мдк 01.01\работы\pract1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\мдк 01.01\работы\pract1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\мдк 01.01\работы\pract1\ClassLibrary1\obj\Debug\Lib_6.csproj.AssemblyReference.cache
+F:\мдк 01.01\работы\pract1\ClassLibrary1\obj\Debug\Lib_6.csproj.CoreCompileInputs.cache
+F:\мдк 01.01\работы\pract1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\мдк 01.01\работы\pract1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
