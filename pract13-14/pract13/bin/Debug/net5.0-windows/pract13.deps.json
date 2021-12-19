@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pract13/1.0.0": {
+        "dependencies": {
+          "lib_mas": "1.0.0"
+        },
+        "runtime": {
+          "pract13.dll": {}
+        }
+      },
+      "lib_mas/1.0.0": {
+        "runtime": {
+          "lib_mas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pract13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib_mas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

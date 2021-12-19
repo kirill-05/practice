@@ -1,0 +1,46 @@
+﻿<Window x:Class="pract13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid>
+       
+        <Menu VerticalAlignment="Top" Height="22">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Заполнить матрицу" Click="generate_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Очистить" Click="clear_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Авторизоваться" Click="Login_Click"></MenuItem>
+            <MenuItem Header="О программе" Click="info_Click"></MenuItem>
+            <MenuItem Header="Выход" Click="exit_Click"></MenuItem>
+        </Menu>
+        <ToolBar Margin="0,25,0,363">
+            <Button Content="Открыть" HorizontalAlignment="Left" VerticalAlignment="Top" Click="open_Click"/>
+            <Separator></Separator>
+            <Button Content="Сохранить" HorizontalAlignment="Left" VerticalAlignment="Top" Click="save_Click"/>
+
+        </ToolBar>
+
+        <GroupBox Header="Исходные данные" Margin="0,52,400,0">
+            <Grid>
+                <DataGrid x:Name="DataGridA" Margin="0,24,10,208" />
+                <TextBlock HorizontalAlignment="Left" Margin="4,209,0,0" Text="от"  VerticalAlignment="Top" TextAlignment="Center" Height="24" Width="44"/>
+                <TextBlock HorizontalAlignment="Left" Text="до" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Height="24" Width="40" Margin="189,208,0,0"/>
+                <TextBox x:Name="inputRow" HorizontalAlignment="Left" Margin="53,209,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="24" ToolTip="Введите кол-во столбцов"/>
+                <TextBox x:Name="inputColum" HorizontalAlignment="Left" Margin="238,209,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="126" Height="24" ToolTip="Введите ко-во строк"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Header="Результат" Margin="400,52,10,0">
+            <Grid>
+                <TextBox x:Name="result" HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Height="24" IsReadOnly="True"/>
+                <Button Content="найти" HorizontalAlignment="Left" Margin="194,59,0,0" VerticalAlignment="Top" Width="89" Click="find_Click"/>
+
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
